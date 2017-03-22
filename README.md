@@ -8,3 +8,7 @@ This page will mark as index for the repo. The follwing naming convention should
 - The screenshots should be organized according to how the conversation happened
 - Maintain your local timezone
 - The parent directory should capture the essense of the topic discussed in it's internal markdown documents
+
+## Contents
+
+- [2017 Edge Alumni Contribution Should we send moneyt or not talk](https://github.com/GeekAlums/TalkDiary/blob/master/2017MoneyTransfer/21-03-17.md)
